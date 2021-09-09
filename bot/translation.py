@@ -53,5 +53,5 @@ JOIN OUR CHANNEL AND MOVIE REQUEST GROUP FROM THE BELOW LINK 🥰
 
 <b>➥ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
 
-<b>➥ Source Code</b> : <i><a href="https://github.com/Hurricane-Hari/autofilter-botv1">Click Me</a></i>
+<b>➥ Source Code</b> : <i><a href="https://github.com/kotfreede/KOT-FILTER-BOT">Click Me</a></i>
 """
