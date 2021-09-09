@@ -5,12 +5,12 @@
 class Translation(object):
     
     START_TEXT = """<b><u>Hey {} How are you!!</b></u>
-<i>Am Just A Movie Sender Bot Only For @STARZONE_MOVIESZ....😉
+<i>Am Just A Movie Sender Bot Only For @KOT_MOVIES_DISSECTION😉
 
 JOIN OUR CHANNEL AND MOVIE REQUEST GROUP FROM THE BELOW LINK 🥰
 
 
-@STARZONE_MOVIEREQUEST
+@KOT_BOTS
 </i>"""    
     
     HELP_TEXT = """
@@ -47,7 +47,7 @@ JOIN OUR CHANNEL AND MOVIE REQUEST GROUP FROM THE BELOW LINK 🥰
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/A2Z_MOVIES01">A2Z_MOVIES01</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="https://t.me/KOT_FREE_DE_LA_HOYA_OFF">KOT_FREE_DE_LA_HOYA_OFF</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
